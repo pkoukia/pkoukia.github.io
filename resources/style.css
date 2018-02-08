@@ -1,5 +1,10 @@
-h1 p {
+.pkoukiapage {
+  background-color: black;
+}
+
+h1, p {
   text-align: center;
   color: darkgreen;
   font-weight: bold;
+  font-size: 100px;
 }
