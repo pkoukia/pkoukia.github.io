@@ -12,6 +12,7 @@ h1, p {
 .navigation {
   background-color: grey;
   border: 1px solid darkgrey;
+  position: fixed;
 }
 
 nav, li {
@@ -23,4 +24,9 @@ nav, li {
 
 a {
   color: darkgreen;
+}
+
+.coffeepic img {
+  position: relative;
+  max-width: 10px;
 }
